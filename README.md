@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harbim001
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Scinece
+- 👀 I’m interested in Cloud
+- 🌱 I’m currently learning Bash
 - 📫 How to reach me @HarbimPryme on twitter
 
 <!---
